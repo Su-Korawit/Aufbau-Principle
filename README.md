@@ -1,3 +1,3 @@
 # aufbau-principle
-Python Programming Project For Chem Class
-complie by anaconda jupyter notebook
+## Python Programming Project For Chem Class
+## Complie by anaconda jupyter notebook
