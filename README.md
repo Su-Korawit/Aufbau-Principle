@@ -1,2 +1,2 @@
-# aufbau-principle
-##Python Programming Project For Chem Class
+# Aufbau Principle
+## Python Programming Project For Chem Class
